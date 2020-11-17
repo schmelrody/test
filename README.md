@@ -1,2 +1,2 @@
 # test
-Testing a public repo
+Testing a public repo, schmelrod/test
